@@ -50,7 +50,7 @@ h3 {
 
 textarea {
   width: 100%;
-  ;
+ 
 }
 
 .modal-title {
@@ -60,7 +60,7 @@ textarea {
 }
 
 .modal-dialog {
-  margin: 20vh auto 0px auto
+  margin: 20vh auto 0px auto;
 }
 
 .modal-header,
